@@ -7,5 +7,5 @@ public class FirstClass {
 		System.out.println("This is the second changes from local master");		
 		System.out.println("This is the third changes from local master");	
 		System.out.println("This is the first commit from remote master");
-	
+		System.out.println("This is the forth commit from local master");
 	}}
